@@ -1,0 +1,14 @@
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.exe
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.deps.json
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.json
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.dev.json
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.dll
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.pdb
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.csproj.AssemblyReference.cache
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfoInputs.cache
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfo.cs
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.csproj.CoreCompileInputs.cache
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.dll
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.pdb
+E:\NEW VS FOLDER\source\repos\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.genruntimeconfig.cache

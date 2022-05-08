@@ -1,0 +1,14 @@
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\bin\Debug\netcoreapp3.1\EightQueensProblem.exe
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\bin\Debug\netcoreapp3.1\EightQueensProblem.deps.json
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\bin\Debug\netcoreapp3.1\EightQueensProblem.runtimeconfig.json
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\bin\Debug\netcoreapp3.1\EightQueensProblem.runtimeconfig.dev.json
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\bin\Debug\netcoreapp3.1\EightQueensProblem.dll
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\bin\Debug\netcoreapp3.1\EightQueensProblem.pdb
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\obj\Debug\netcoreapp3.1\EightQueensProblem.csproj.AssemblyReference.cache
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\obj\Debug\netcoreapp3.1\EightQueensProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\obj\Debug\netcoreapp3.1\EightQueensProblem.AssemblyInfoInputs.cache
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\obj\Debug\netcoreapp3.1\EightQueensProblem.AssemblyInfo.cs
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\obj\Debug\netcoreapp3.1\EightQueensProblem.csproj.CoreCompileInputs.cache
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\obj\Debug\netcoreapp3.1\EightQueensProblem.dll
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\obj\Debug\netcoreapp3.1\EightQueensProblem.pdb
+E:\NEW VS FOLDER\source\repos\Recursion\EightQueensProblem\obj\Debug\netcoreapp3.1\EightQueensProblem.genruntimeconfig.cache

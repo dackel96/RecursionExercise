@@ -1,0 +1,14 @@
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\bin\Debug\netcoreapp3.1\MAZE.exe
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\bin\Debug\netcoreapp3.1\MAZE.deps.json
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\bin\Debug\netcoreapp3.1\MAZE.runtimeconfig.json
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\bin\Debug\netcoreapp3.1\MAZE.runtimeconfig.dev.json
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\bin\Debug\netcoreapp3.1\MAZE.dll
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\bin\Debug\netcoreapp3.1\MAZE.pdb
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\obj\Debug\netcoreapp3.1\MAZE.csproj.AssemblyReference.cache
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\obj\Debug\netcoreapp3.1\MAZE.GeneratedMSBuildEditorConfig.editorconfig
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\obj\Debug\netcoreapp3.1\MAZE.AssemblyInfoInputs.cache
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\obj\Debug\netcoreapp3.1\MAZE.AssemblyInfo.cs
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\obj\Debug\netcoreapp3.1\MAZE.csproj.CoreCompileInputs.cache
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\obj\Debug\netcoreapp3.1\MAZE.dll
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\obj\Debug\netcoreapp3.1\MAZE.pdb
+E:\NEW VS FOLDER\source\repos\Recursion\MAZE\obj\Debug\netcoreapp3.1\MAZE.genruntimeconfig.cache
